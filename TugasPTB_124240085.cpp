@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdio>
 #include <cstring>
-#include <conio.h>
 using namespace std;
 
 struct Mahasiswa {
